@@ -3,4 +3,4 @@
 
 ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI)
 
-We strongly understand that it's tedious and difficult to config a custom input layer (even installing the caffe on your own PC), thus we decide to make a pytorch version for the csrnet:)
+We strongly understand that it's tedious and difficult to config a custom input layer (even installing CAFFE on your own PC), thus we decide to make a pytorch version for the csrnet:)
