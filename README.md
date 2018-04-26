@@ -9,7 +9,7 @@ Well it's too slow to upload the model to google drive:(
 
 1) ShanghaiTech_Part_A: [Google Drive](https://drive.google.com/open?id=1odZ3B_ZDSepPcVFO_TfGUIrpF2DF7SwY)
 
-2) ShanghaiTech_Part_B: [Uploading...](https://www.google.com)
+2) ShanghaiTech_Part_B: [Google Drive](https://drive.google.com/open?id=1NOpn0ztlye85vrHR2TMwOI2Qu_S8zANj)
 
 ## Prerequisites
 
