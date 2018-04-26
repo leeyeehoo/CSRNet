@@ -5,7 +5,7 @@ ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4F
 
 ## Models (Only for tests)
 
-Well it's too slow to upload the model to google drive:(
+This is the model for test. The results should be similar to the results shown in the paper(slightly better or worse).
 
 1) ShanghaiTech_Part_A: [Google Drive](https://drive.google.com/open?id=1odZ3B_ZDSepPcVFO_TfGUIrpF2DF7SwY)
 
