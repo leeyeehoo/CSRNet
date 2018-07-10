@@ -15,7 +15,7 @@ This is the model for test. The results should be similar to the results shown i
 
 1) A good CAFFE
 
-We understand that it's tedious and difficult to config a custom input layer (even installing CAFFE on your own PC), thus we decide to make a pytorch version for the csrnet:)
+We understand that it's tedious and difficult to config a custom input layer (even installing CAFFE on your own PC), thus we make a pytorch version for the csrnet: [CSRNet Pytorch Version](https://github.com/leeyeehoo/CSRNet-pytorch/tree/master)
 
 ## References
 
